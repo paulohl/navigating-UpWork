@@ -11,8 +11,9 @@ This study delves into the dynamics of the freelancing market within the framewo
 
 __Keywords__: Freelancing, Sharing Economy, Shared Economy, Gig Economy, Freelancer, Independent Consultant
 
-__Suggested Citation__:
+__Suggested Citation__:      
 
+---------------------
 Leocadio, Paulo,
 Navigating Upwork: Understanding Corporate Dynamics and Unveiling Freelancer Realities Amid Policy Disruption
 
