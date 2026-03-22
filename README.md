@@ -7,7 +7,7 @@ __Foundational Empirical Study__: Navigating Upwork: Understanding Corporate Dyn
 
 __Research Context__: This project tracks the evolution of a "pragmatic business report" into a cited contribution to legal and corporate governance scholarship, bridging the gap between industry-facing analysis and academic rigor.
 
-_Navigating Upwork: Understanding Corporate Dynamics and Unveiling Freelancer Realities Amid Policy Disruption_ DOI-10.2139_ssrn.6031034       
+_Navigating Upwork: Understanding Corporate Dynamics and Unveiling Freelancer Realities Amid Policy Disruption_ DOI-10.2139_ssrn.6031034 (Jan.2024)      
 
-_Platform Governance and Perceived Fairness in Professional Freelance Marketplaces: Evidence from Upwork_ DOI-10.33140_IJCCL.04.01.06
+_Platform Governance and Perceived Fairness in Professional Freelance Marketplaces: Evidence from Upwork_ DOI-10.33140_IJCCL.04.01.06 (Jan.2026)
 
