@@ -13,3 +13,8 @@ _Navigating Upwork: Understanding Corporate Dynamics and Unveiling Freelancer Re
 
 _Platform Governance and Perceived Fairness in Professional Freelance Marketplaces: Evidence from Upwork_ [DOI-10.33140_IJCCL.04.01.06](https://www.opastpublishers.com/open-access-articles/platform-governance-and-perceived-fairness-in-professional-freelance-marketplaces-evidence-from-upwork-10410.html) (Jan.2026)
 
+-------       
+
+![alt text](/img/alternatives-of-upwork.png "Logo Title Text 1")
+
+
