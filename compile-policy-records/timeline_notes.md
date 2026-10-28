@@ -25,6 +25,10 @@ The April 27, 2025 archived Upwork notice states:
 
 This establishes **May 1, 2025**, the new-contract scope and grandfathering of existing contract fees. It does **not** state the numerical launch range. The currently retrieved article supplies 0–15%; this reconstruction deliberately does not combine the two documents into an unsupported claim that 0–15% was necessarily the precise launch range. Current proposal/offer lock-in wording is also not retroactively treated as the verified cutoff rule for pending proposals in May 2025.
 
+![Visual Chronology][logo]
+
+[logo]: /compile-policy-records/policy_change_timeline.png "Chronology"
+
 ## Contract scope matters
 
 The 2023 protection attached to eligible existing contracts already at 5%, not all later work with the same client. The September 26, 2023 archive explicitly says new contracts with that client have a 10% fee regardless of client history. Similarly, the 2025 notice preserves existing contract fees, not a permanent fee entitlement for the freelancer or client relationship. Enterprise, Payroll, Any Hire and other special arrangements may differ; do not generalize the standard fee schedule to them.
