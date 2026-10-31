@@ -1,0 +1,90 @@
+{
+  "retrieved_utc": "2026-10-29",
+  "snapshots": [
+    {
+      "capture": "20200602230611",
+      "version_id": "5e87c41ec4ddd052e044a470",
+      "capture_url": "https://web.archive.org/web/20200602230611/https://www.upwork.com/legal",
+      "extracted_file": "user-agreement-20200602.html"
+    },
+    {
+      "capture": "20200627053536",
+      "version_id": "5ef3b72fa7188f29c1a2cba5",
+      "capture_url": "https://web.archive.org/web/20200627053536/https://www.upwork.com/legal",
+      "extracted_file": "user-agreement-20200627.html"
+    }
+  ],
+  "files": [
+    {
+      "file": "fee-authorization-october-2019.pdf",
+      "bytes": 62850,
+      "sha256": "86d16652fab5855961566fa98819d42d5e6cd3e67fe5e41690331517a867fd12",
+      "download_url": "https://upwork.pactsafe.io/versions/5db0b5adc5f5ce2545408024.pdf"
+    },
+    {
+      "file": "freelancer-membership-october-2019.pdf",
+      "bytes": 17449,
+      "sha256": "9164538af853449792844c6253eca443ce51829ddb8de8aca0d122b8a0fbe658",
+      "download_url": "https://upwork.pactsafe.io/versions/5db0b65a54e1dc2f0f7a875d.pdf"
+    },
+    {
+      "file": "legal-center-20200602230611.html",
+      "bytes": 2110677,
+      "sha256": "0823d211db288d98e29b6602de17336be6cae46833b838e56154cb28a627588e"
+    },
+    {
+      "file": "legal-center-20200627053536.html",
+      "bytes": 1991909,
+      "sha256": "e15456d7c3ca077909f48f85a8e357e0a8a4a74e0d4a5b6f4343915c4a786e77"
+    },
+    {
+      "file": "recovery_note.md",
+      "bytes": 6661,
+      "sha256": "795913815d922021cf9c8b4783727a786612814cc19952dde673684848ce851c"
+    },
+    {
+      "file": "user-agreement-20200602.html",
+      "bytes": 154181,
+      "sha256": "40adecda87e10cad7fc0205cfc1c62ce7d60d1f181846cdc55f710eb54e15b7b"
+    },
+    {
+      "file": "user-agreement-20200627.html",
+      "bytes": 157206,
+      "sha256": "d142e37f9e9b9c1e55fbc5a73605d0e1cc30d683f3954a257fc6ea5260e9af5f"
+    },
+    {
+      "file": "user-agreement-606b71a90521cb2efd49a134.pdf",
+      "bytes": 208139,
+      "sha256": "d4c02fa702524403a005ab935d010780e97b5223f818a43b03e26c5de7524334",
+      "download_url": "https://upwork.pactsafe.io/versions/606b71a90521cb2efd49a134.pdf",
+      "effective_date": "not verified"
+    },
+    {
+      "file": "user-agreement-61b0b479523457596f96e2d8.pdf",
+      "bytes": 208943,
+      "sha256": "63feacfe628722c077ecdf032d7fddf8d0ee9eacb5b55ffcf3ca82db803fef77",
+      "download_url": "https://upwork.pactsafe.io/versions/61b0b479523457596f96e2d8.pdf",
+      "effective_date": "not verified"
+    },
+    {
+      "file": "user-agreement-64a63ee98763a953463e10af.pdf",
+      "bytes": 392599,
+      "sha256": "690a26198694278851330cb47b0af21363ad46d9cb3d8b6ed53ea00b316bd221",
+      "download_url": "https://upwork.pactsafe.io/versions/64a63ee98763a953463e10af.pdf",
+      "effective_date": "not verified"
+    },
+    {
+      "file": "user-agreement-april-2020.pdf",
+      "bytes": 197526,
+      "sha256": "84ca5ccd61ad24ff1175cff05b7f7b51b221af63eb780d647cc4f3e5caf3d1ca",
+      "download_url": "https://upwork.pactsafe.io/versions/5e87c41ec4ddd052e044a470.pdf"
+    },
+    {
+      "file": "user-agreement-june-2020.pdf",
+      "bytes": 205404,
+      "sha256": "de7191403f13ac2cf91c9cdce105da268027fb2d318605ef6845b05398674c15",
+      "download_url": "https://upwork.pactsafe.io/versions/5ef3b72fa7188f29c1a2cba5.pdf"
+    }
+  ],
+  "note": "Wayback HTML captures preserve dated labels; PDFs downloaded from original version host in 2026. Supplemental PDFs have unverified effective dates."
+}
