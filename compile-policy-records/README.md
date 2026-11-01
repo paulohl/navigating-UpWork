@@ -1,5 +1,8 @@
 # Upwork policy and enforcement records — curated primary-source release
 
+upwork-policy-timeline      
+
+
 Collected: 2026-10-23T06:10:04.234812+00:00. **42 records from 11 preserved primary-source documents**, across Upwork Help Center/attachments, Internet Archive Wayback Machine and SEC EDGAR. This is a bounded, purposive collection, not an exhaustive repository census. All records are real, directly sourced records; none are simulated.
 
 ## What this adds to your paper
